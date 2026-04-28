@@ -1,0 +1,30 @@
+event_id,camera_id,video_name,event_type,start_time_sec,end_time_sec,track_ids_involved,severity,details,timestamp_detected
+1,CAM_001,ucsd_ped2_test01,crowd_formation,0.0,5.68,[],1.0,Person count increased by 18,2026-01-27T15:11:43.130449
+2,CAM_001,ucsd_ped2_test01,high_density,0.0,7.12,[],0.9,Current count: 18,2026-01-27T15:11:43.130449
+3,CAM_001,ucsd_ped2_test01,erratic_movement,0.8,1.2,[8],0.5,Direction changes: 5,2026-01-27T15:11:44.813539
+4,CAM_001,ucsd_ped2_test01,erratic_movement,0.8,6.8,[11],0.5,Direction changes: 5,2026-01-27T15:11:44.815548
+5,CAM_001,ucsd_ped2_test01,erratic_movement,0.8,6.8,[14],0.5,Direction changes: 5,2026-01-27T15:11:44.817547
+6,CAM_001,ucsd_ped2_test01,erratic_movement,1.2,4.8,[4],0.7,Direction changes: 7,2026-01-27T15:11:45.643901
+7,CAM_001,ucsd_ped2_test01,erratic_movement,1.2,6.8,[12],0.6,Direction changes: 6,2026-01-27T15:11:45.655455
+8,CAM_001,ucsd_ped2_test01,erratic_movement,1.6,6.0,[6],0.7,Direction changes: 7,2026-01-27T15:11:46.316688
+9,CAM_001,ucsd_ped2_test01,erratic_movement,1.6,6.8,[13],0.5,Direction changes: 5,2026-01-27T15:11:46.326016
+10,CAM_001,ucsd_ped2_test01,erratic_movement,1.6,2.4,[19],0.6,Direction changes: 6,2026-01-27T15:11:46.331183
+11,CAM_001,ucsd_ped2_test01,erratic_movement,2.0,3.2,[24],0.7,Direction changes: 7,2026-01-27T15:11:47.098753
+12,CAM_001,ucsd_ped2_test01,erratic_movement,2.4,4.4,[29],0.6,Direction changes: 6,2026-01-27T15:11:47.744628
+13,CAM_001,ucsd_ped2_test01,erratic_movement,3.2,4.0,[2],0.5,Direction changes: 5,2026-01-27T15:11:49.123708
+14,CAM_001,ucsd_ped2_test01,erratic_movement,3.2,6.8,[7],0.5,Direction changes: 5,2026-01-27T15:11:49.138802
+15,CAM_001,ucsd_ped2_test01,loitering,3.2,6.8,[11],0.5333333333333333,Stayed in area for 3.2s,2026-01-27T15:11:49.146291
+16,CAM_001,ucsd_ped2_test01,erratic_movement,3.6,6.0,[3],0.6,Direction changes: 6,2026-01-27T15:11:49.838656
+17,CAM_001,ucsd_ped2_test01,erratic_movement,3.6,4.8,[35],0.5,Direction changes: 5,2026-01-27T15:11:49.891628
+18,CAM_001,ucsd_ped2_test01,erratic_movement,4.0,5.6,[9],0.5,Direction changes: 5,2026-01-27T15:11:50.596323
+19,CAM_001,ucsd_ped2_test01,erratic_movement,4.4,6.4,[30],0.5,Direction changes: 5,2026-01-27T15:11:51.555610
+20,CAM_001,ucsd_ped2_test01,loitering,4.8,4.8,[4],0.5333333333333333,Stayed in area for 3.2s,2026-01-27T15:11:52.261522
+21,CAM_001,ucsd_ped2_test01,erratic_movement,5.2,6.4,[18],0.5,Direction changes: 5,2026-01-27T15:11:53.220937
+22,CAM_001,ucsd_ped2_test01,erratic_movement,5.2,6.8,[47],0.8,Direction changes: 8,2026-01-27T15:11:53.233426
+23,CAM_001,ucsd_ped2_test01,running,5.6,5.6,[9],0.6677137685297049,Speed: 200.3 px/s,2026-01-27T15:11:54.009328
+24,CAM_001,ucsd_ped2_test01,erratic_movement,5.6,6.4,[32],0.6,Direction changes: 6,2026-01-27T15:11:54.059582
+25,CAM_001,ucsd_ped2_test01,erratic_movement,5.6,6.8,[46],0.5,Direction changes: 5,2026-01-27T15:11:54.063966
+26,CAM_001,ucsd_ped2_test01,erratic_movement,5.6,6.8,[49],0.5,Direction changes: 5,2026-01-27T15:11:54.069529
+27,CAM_001,ucsd_ped2_test01,loitering,6.0,6.8,[13],0.5199999999999999,Stayed in area for 3.1s,2026-01-27T15:11:54.815182
+28,CAM_001,ucsd_ped2_test01,erratic_movement,6.0,6.0,[50],0.9,Direction changes: 9,2026-01-27T15:11:54.840689
+29,CAM_001,ucsd_ped2_test01,erratic_movement,6.4,6.8,[56],0.5,Direction changes: 5,2026-01-27T15:11:55.701728

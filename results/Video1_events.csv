@@ -1,0 +1,20 @@
+event_id,camera_id,video_name,event_type,start_time_sec,end_time_sec,track_ids_involved,severity,details,timestamp_detected
+1,CAM_001,Video1,erratic_movement,5.2,22.0,[],0.7,Direction changes: 7,2026-02-04T21:06:07.490031
+2,CAM_001,Video1,oscillating_movement,6.8,22.0,[],0.9368705359338414,"Back-and-forth pattern detected, 7 reversals, score: 0.68",2026-02-04T21:06:09.157419
+3,CAM_001,Video1,loitering,7.2,22.0,[],0.52,Stayed in area for 3.1s,2026-02-04T21:06:09.538236
+4,CAM_001,Video1,slow_movement,8.0,22.0,[],0.3675555555555555,"Slow movement for 3.0s, avg speed: 11.2 px/s",2026-02-04T21:06:10.343578
+5,CAM_001,Video1,running,11.2,26.8,[1],1.0,Speed: 498.9 px/s,2026-02-04T21:06:13.571325
+6,CAM_001,Video1,running,12.8,22.0,[],1.0,Speed: 432.7 px/s,2026-02-04T21:06:15.326492
+7,CAM_001,Video1,erratic_movement,13.6,26.8,[1],0.5,Direction changes: 5,2026-02-04T21:06:16.204561
+8,CAM_001,Video1,oscillating_movement,15.6,26.8,[1],0.9400103359858862,"Back-and-forth pattern detected, 8 reversals, score: 0.70",2026-02-04T21:06:18.404374
+9,CAM_001,Video1,loitering,16.0,26.8,[1],0.5599999999999999,Stayed in area for 3.4s,2026-02-04T21:06:18.866845
+10,CAM_001,Video1,freezing,16.8,18.4,[],0.8432295243991923,"Sudden stop for 1.4s, speed drop: 100%",2026-02-04T21:06:19.746919
+11,CAM_001,Video1,freezing,17.2,26.8,[1],0.8183755762889304,"Sudden stop for 1.2s, speed drop: 99%",2026-02-04T21:06:20.238371
+12,CAM_001,Video1,slow_movement,22.0,26.8,[1],0.3693333333333332,"Slow movement for 3.1s, avg speed: 59.5 px/s",2026-02-04T21:06:26.333811
+13,CAM_001,Video1,running,23.6,34.0,[4],0.5048631972658222,Speed: 151.5 px/s,2026-02-04T21:06:28.260396
+14,CAM_001,Video1,erratic_movement,24.8,34.0,[4],0.5,Direction changes: 5,2026-02-04T21:06:29.680295
+15,CAM_001,Video1,erratic_movement,28.0,28.4,[5],0.7,Direction changes: 7,2026-02-04T21:06:33.455529
+16,CAM_001,Video1,loitering,28.8,34.0,[4],0.5200000000000001,Stayed in area for 3.1s,2026-02-04T21:06:34.380525
+17,CAM_001,Video1,freezing,28.8,32.4,[4],0.7968896093149801,"Sudden stop for 1.0s, speed drop: 98%",2026-02-04T21:06:34.381524
+18,CAM_001,Video1,oscillating_movement,29.2,34.0,[4],0.9331398146045802,"Back-and-forth pattern detected, 7 reversals, score: 0.67",2026-02-04T21:06:34.828111
+19,CAM_001,Video1,slow_movement,30.8,34.0,[4],0.3675555555555557,"Slow movement for 3.0s, avg speed: 31.4 px/s",2026-02-04T21:06:36.583665

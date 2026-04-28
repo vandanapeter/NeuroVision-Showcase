@@ -1,0 +1,256 @@
+[
+  {
+    "event_id": 1,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.2,
+    "end_time_sec": 22.0,
+    "track_ids_involved": [],
+    "severity": 0.7,
+    "details": "Direction changes: 7",
+    "timestamp_detected": "2026-02-04T21:06:07.490031"
+  },
+  {
+    "event_id": 2,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "oscillating_movement",
+    "start_time_sec": 6.8,
+    "end_time_sec": 22.0,
+    "track_ids_involved": [],
+    "severity": 0.9368705359338414,
+    "details": "Back-and-forth pattern detected, 7 reversals, score: 0.68",
+    "timestamp_detected": "2026-02-04T21:06:09.157419"
+  },
+  {
+    "event_id": 3,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "loitering",
+    "start_time_sec": 7.2,
+    "end_time_sec": 22.0,
+    "track_ids_involved": [],
+    "severity": 0.52,
+    "details": "Stayed in area for 3.1s",
+    "timestamp_detected": "2026-02-04T21:06:09.538236"
+  },
+  {
+    "event_id": 4,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "slow_movement",
+    "start_time_sec": 8.0,
+    "end_time_sec": 22.0,
+    "track_ids_involved": [],
+    "severity": 0.3675555555555555,
+    "details": "Slow movement for 3.0s, avg speed: 11.2 px/s",
+    "timestamp_detected": "2026-02-04T21:06:10.343578"
+  },
+  {
+    "event_id": 5,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "running",
+    "start_time_sec": 11.2,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 1.0,
+    "details": "Speed: 498.9 px/s",
+    "timestamp_detected": "2026-02-04T21:06:13.571325"
+  },
+  {
+    "event_id": 6,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "running",
+    "start_time_sec": 12.8,
+    "end_time_sec": 22.0,
+    "track_ids_involved": [],
+    "severity": 1.0,
+    "details": "Speed: 432.7 px/s",
+    "timestamp_detected": "2026-02-04T21:06:15.326492"
+  },
+  {
+    "event_id": 7,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "erratic_movement",
+    "start_time_sec": 13.6,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-02-04T21:06:16.204561"
+  },
+  {
+    "event_id": 8,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "oscillating_movement",
+    "start_time_sec": 15.6,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 0.9400103359858862,
+    "details": "Back-and-forth pattern detected, 8 reversals, score: 0.70",
+    "timestamp_detected": "2026-02-04T21:06:18.404374"
+  },
+  {
+    "event_id": 9,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "loitering",
+    "start_time_sec": 16.0,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 0.5599999999999999,
+    "details": "Stayed in area for 3.4s",
+    "timestamp_detected": "2026-02-04T21:06:18.866845"
+  },
+  {
+    "event_id": 10,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "freezing",
+    "start_time_sec": 16.8,
+    "end_time_sec": 18.4,
+    "track_ids_involved": [],
+    "severity": 0.8432295243991923,
+    "details": "Sudden stop for 1.4s, speed drop: 100%",
+    "timestamp_detected": "2026-02-04T21:06:19.746919"
+  },
+  {
+    "event_id": 11,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "freezing",
+    "start_time_sec": 17.2,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 0.8183755762889304,
+    "details": "Sudden stop for 1.2s, speed drop: 99%",
+    "timestamp_detected": "2026-02-04T21:06:20.238371"
+  },
+  {
+    "event_id": 12,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "slow_movement",
+    "start_time_sec": 22.0,
+    "end_time_sec": 26.8,
+    "track_ids_involved": [
+      1
+    ],
+    "severity": 0.3693333333333332,
+    "details": "Slow movement for 3.1s, avg speed: 59.5 px/s",
+    "timestamp_detected": "2026-02-04T21:06:26.333811"
+  },
+  {
+    "event_id": 13,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "running",
+    "start_time_sec": 23.6,
+    "end_time_sec": 34.0,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.5048631972658222,
+    "details": "Speed: 151.5 px/s",
+    "timestamp_detected": "2026-02-04T21:06:28.260396"
+  },
+  {
+    "event_id": 14,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "erratic_movement",
+    "start_time_sec": 24.8,
+    "end_time_sec": 34.0,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-02-04T21:06:29.680295"
+  },
+  {
+    "event_id": 15,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "erratic_movement",
+    "start_time_sec": 28.0,
+    "end_time_sec": 28.4,
+    "track_ids_involved": [
+      5
+    ],
+    "severity": 0.7,
+    "details": "Direction changes: 7",
+    "timestamp_detected": "2026-02-04T21:06:33.455529"
+  },
+  {
+    "event_id": 16,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "loitering",
+    "start_time_sec": 28.8,
+    "end_time_sec": 34.0,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.5200000000000001,
+    "details": "Stayed in area for 3.1s",
+    "timestamp_detected": "2026-02-04T21:06:34.380525"
+  },
+  {
+    "event_id": 17,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "freezing",
+    "start_time_sec": 28.8,
+    "end_time_sec": 32.4,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.7968896093149801,
+    "details": "Sudden stop for 1.0s, speed drop: 98%",
+    "timestamp_detected": "2026-02-04T21:06:34.381524"
+  },
+  {
+    "event_id": 18,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "oscillating_movement",
+    "start_time_sec": 29.2,
+    "end_time_sec": 34.0,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.9331398146045802,
+    "details": "Back-and-forth pattern detected, 7 reversals, score: 0.67",
+    "timestamp_detected": "2026-02-04T21:06:34.828111"
+  },
+  {
+    "event_id": 19,
+    "camera_id": "CAM_001",
+    "video_name": "Video1",
+    "event_type": "slow_movement",
+    "start_time_sec": 30.8,
+    "end_time_sec": 34.0,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.3675555555555557,
+    "details": "Slow movement for 3.0s, avg speed: 31.4 px/s",
+    "timestamp_detected": "2026-02-04T21:06:36.583665"
+  }
+]

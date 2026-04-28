@@ -1,0 +1,404 @@
+[
+  {
+    "event_id": 1,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "crowd_formation",
+    "start_time_sec": 0.0,
+    "end_time_sec": 5.68,
+    "track_ids_involved": [],
+    "severity": 1.0,
+    "details": "Person count increased by 18",
+    "timestamp_detected": "2026-01-27T15:11:43.130449"
+  },
+  {
+    "event_id": 2,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "high_density",
+    "start_time_sec": 0.0,
+    "end_time_sec": 7.12,
+    "track_ids_involved": [],
+    "severity": 0.9,
+    "details": "Current count: 18",
+    "timestamp_detected": "2026-01-27T15:11:43.130449"
+  },
+  {
+    "event_id": 3,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 0.8,
+    "end_time_sec": 1.2,
+    "track_ids_involved": [
+      8
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:44.813539"
+  },
+  {
+    "event_id": 4,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 0.8,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      11
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:44.815548"
+  },
+  {
+    "event_id": 5,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 0.8,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      14
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:44.817547"
+  },
+  {
+    "event_id": 6,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 1.2,
+    "end_time_sec": 4.8,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.7,
+    "details": "Direction changes: 7",
+    "timestamp_detected": "2026-01-27T15:11:45.643901"
+  },
+  {
+    "event_id": 7,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 1.2,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      12
+    ],
+    "severity": 0.6,
+    "details": "Direction changes: 6",
+    "timestamp_detected": "2026-01-27T15:11:45.655455"
+  },
+  {
+    "event_id": 8,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 1.6,
+    "end_time_sec": 6.0,
+    "track_ids_involved": [
+      6
+    ],
+    "severity": 0.7,
+    "details": "Direction changes: 7",
+    "timestamp_detected": "2026-01-27T15:11:46.316688"
+  },
+  {
+    "event_id": 9,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 1.6,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      13
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:46.326016"
+  },
+  {
+    "event_id": 10,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 1.6,
+    "end_time_sec": 2.4,
+    "track_ids_involved": [
+      19
+    ],
+    "severity": 0.6,
+    "details": "Direction changes: 6",
+    "timestamp_detected": "2026-01-27T15:11:46.331183"
+  },
+  {
+    "event_id": 11,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 2.0,
+    "end_time_sec": 3.2,
+    "track_ids_involved": [
+      24
+    ],
+    "severity": 0.7,
+    "details": "Direction changes: 7",
+    "timestamp_detected": "2026-01-27T15:11:47.098753"
+  },
+  {
+    "event_id": 12,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 2.4,
+    "end_time_sec": 4.4,
+    "track_ids_involved": [
+      29
+    ],
+    "severity": 0.6,
+    "details": "Direction changes: 6",
+    "timestamp_detected": "2026-01-27T15:11:47.744628"
+  },
+  {
+    "event_id": 13,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 3.2,
+    "end_time_sec": 4.0,
+    "track_ids_involved": [
+      2
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:49.123708"
+  },
+  {
+    "event_id": 14,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 3.2,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      7
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:49.138802"
+  },
+  {
+    "event_id": 15,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "loitering",
+    "start_time_sec": 3.2,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      11
+    ],
+    "severity": 0.5333333333333333,
+    "details": "Stayed in area for 3.2s",
+    "timestamp_detected": "2026-01-27T15:11:49.146291"
+  },
+  {
+    "event_id": 16,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 3.6,
+    "end_time_sec": 6.0,
+    "track_ids_involved": [
+      3
+    ],
+    "severity": 0.6,
+    "details": "Direction changes: 6",
+    "timestamp_detected": "2026-01-27T15:11:49.838656"
+  },
+  {
+    "event_id": 17,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 3.6,
+    "end_time_sec": 4.8,
+    "track_ids_involved": [
+      35
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:49.891628"
+  },
+  {
+    "event_id": 18,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 4.0,
+    "end_time_sec": 5.6,
+    "track_ids_involved": [
+      9
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:50.596323"
+  },
+  {
+    "event_id": 19,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 4.4,
+    "end_time_sec": 6.4,
+    "track_ids_involved": [
+      30
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:51.555610"
+  },
+  {
+    "event_id": 20,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "loitering",
+    "start_time_sec": 4.8,
+    "end_time_sec": 4.8,
+    "track_ids_involved": [
+      4
+    ],
+    "severity": 0.5333333333333333,
+    "details": "Stayed in area for 3.2s",
+    "timestamp_detected": "2026-01-27T15:11:52.261522"
+  },
+  {
+    "event_id": 21,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.2,
+    "end_time_sec": 6.4,
+    "track_ids_involved": [
+      18
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:53.220937"
+  },
+  {
+    "event_id": 22,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.2,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      47
+    ],
+    "severity": 0.8,
+    "details": "Direction changes: 8",
+    "timestamp_detected": "2026-01-27T15:11:53.233426"
+  },
+  {
+    "event_id": 23,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "running",
+    "start_time_sec": 5.6,
+    "end_time_sec": 5.6,
+    "track_ids_involved": [
+      9
+    ],
+    "severity": 0.6677137685297049,
+    "details": "Speed: 200.3 px/s",
+    "timestamp_detected": "2026-01-27T15:11:54.009328"
+  },
+  {
+    "event_id": 24,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.6,
+    "end_time_sec": 6.4,
+    "track_ids_involved": [
+      32
+    ],
+    "severity": 0.6,
+    "details": "Direction changes: 6",
+    "timestamp_detected": "2026-01-27T15:11:54.059582"
+  },
+  {
+    "event_id": 25,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.6,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      46
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:54.063966"
+  },
+  {
+    "event_id": 26,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 5.6,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      49
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:54.069529"
+  },
+  {
+    "event_id": 27,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "loitering",
+    "start_time_sec": 6.0,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      13
+    ],
+    "severity": 0.5199999999999999,
+    "details": "Stayed in area for 3.1s",
+    "timestamp_detected": "2026-01-27T15:11:54.815182"
+  },
+  {
+    "event_id": 28,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 6.0,
+    "end_time_sec": 6.0,
+    "track_ids_involved": [
+      50
+    ],
+    "severity": 0.9,
+    "details": "Direction changes: 9",
+    "timestamp_detected": "2026-01-27T15:11:54.840689"
+  },
+  {
+    "event_id": 29,
+    "camera_id": "CAM_001",
+    "video_name": "ucsd_ped2_test01",
+    "event_type": "erratic_movement",
+    "start_time_sec": 6.4,
+    "end_time_sec": 6.8,
+    "track_ids_involved": [
+      56
+    ],
+    "severity": 0.5,
+    "details": "Direction changes: 5",
+    "timestamp_detected": "2026-01-27T15:11:55.701728"
+  }
+]
