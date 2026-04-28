@@ -89,8 +89,6 @@ Feature Extractor  (speed, direction, loitering, freeze, oscillation, ...)
             Alert System  (Email + Slack/Discord/Teams webhooks)
 ```
 
-For a deeper walkthrough see [docs/Presentation.md](docs/Presentation.md) or the slide deck at [docs/NeuroVision_Presentation.pptx](docs/NeuroVision_Presentation.pptx) and the report [docs/NeuroVision.pdf](docs/NeuroVision.pdf).
-
 ---
 
 ## Sample Results
